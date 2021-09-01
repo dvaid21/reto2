@@ -3,7 +3,7 @@ import java.sql.Connection;
 import java.sql.SQLException;
 
 /**
- * Hello world!
+ * AGREGUE ESTA LINEA EN APP
  *
  */
 public class App 
